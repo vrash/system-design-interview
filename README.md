@@ -253,6 +253,17 @@ Use design patterns such that it can be reused in multiple applications.
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
+####India Specific 
+Seems like a lot of startups in India are cropping up (including ours, and we are hiring! (www.zoomlee.com))
+Here's a list of Indian startups that are doing greate and challenging scale 
 
+* Flipkart
+http://tech-blog.flipkart.net/category/engineering/
+
+* inMobi
+http://www.inmobi.com/blog/category/engineering
+
+
+--- More to come
 
 
