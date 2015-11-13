@@ -255,13 +255,11 @@ Use design patterns such that it can be reused in multiple applications.
 
 ####India Specific 
 Seems like a lot of startups in India are cropping up (including ours, and we are hiring! (www.zoomlee.com))
-Here's a list of Indian startups that are doing greate and challenging scale 
+Here's a list of Indian startups that are doing great and challenging scale 
 
-* Flipkart
-http://tech-blog.flipkart.net/category/engineering/
+* [Flipkart Engineering blog](http://tech-blog.flipkart.net/category/engineering/)
 
-* inMobi
-http://www.inmobi.com/blog/category/engineering
+* [inMobi Engineering blog](http://www.inmobi.com/blog/category/engineering)
 
 
 --- More to come
